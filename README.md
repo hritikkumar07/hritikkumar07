@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Hritik Naik</h1>
+<h1 align="center">Hi👋, I'm Hritik </h1>
 <h3 align="center">A full-stack developer with a passion for developing efficient and user-centric solutions</h3>
 
 - 🔭 I’m currently working on **A.I. Powered Resume Builder**
