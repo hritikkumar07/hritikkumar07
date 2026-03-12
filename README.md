@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hritik </h1>
 <h3 align="center">A full-stack developer with a passion for developing efficient and user-centric solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="hritikkumar07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritikkumar07" alt="hritikkumar07" /></a> </p>
 
 - 🔭 I’m currently working on **A.I. Powered Resume Builder**
 
