@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **A.I. Powered Resume Builder**
+- 🔭 I’m currently working on **Building Full-Stack projects**
 
 - 🌱 I’m currently learning **Next JS**
 
