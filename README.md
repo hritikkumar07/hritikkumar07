@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Building Full-Stack projects**
 
-- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **Javascript, Node Js, React Js, Express Js, MongoDB**
 
